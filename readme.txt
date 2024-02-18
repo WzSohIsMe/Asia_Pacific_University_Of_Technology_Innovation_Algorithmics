@@ -1,22 +1,13 @@
-Automated Tool For Algorithmics Visualization
----------------------------------------------------------------------------------------------------------
-
-Description
----------------------------------------------------------------------------------------------------------
+# Automated Tool For Algorithmics Visualization
 This tool is designed for computer science students that are lazy to insert value one by one on University of San Francisco Visualization Tool.
 
----------------------------------------------------------------------------------------------------------
+# Available Links
+- B-Tree Visualization - https://www.cs.usfca.edu/~galles/visualization/BTree.html
+- B+Tree Visualilzation - https://www.cs.usfca.edu/~galles/visualization/BPlusTree.html
+- Binomial Queue Visualization - https://www.cs.usfca.edu/~galles/visualization/BinomialQueue.html
 
-Available Links
----------------------------------------------------------------------------------------------------------
-B-Tree Visualization - https://www.cs.usfca.edu/~galles/visualization/BTree.html
-B+Tree Visualilzation - https://www.cs.usfca.edu/~galles/visualization/BPlusTree.html
-Binomial Queue Visualization - https://www.cs.usfca.edu/~galles/visualization/BinomialQueue.html
 
----------------------------------------------------------------------------------------------------------
-
-Follow these steps
----------------------------------------------------------------------------------------------------------
+# Follow these steps
 1. Change the items of the keys=[1,2,3,4,5,6,7,8,9,10]
 2. Copy the script
 3. Visit the link above
@@ -25,10 +16,9 @@ Follow these steps
 6. Paste the script and press Enter
 7. Enjoy
 
----------------------------------------------------------------------------------------------------------
 
-Script
----------------------------------------------------------------------------------------------------------
+# Script
+```javascript
 // Define the keys array
 var keys = [3, 6, 2, 8, 2, 9];
 
