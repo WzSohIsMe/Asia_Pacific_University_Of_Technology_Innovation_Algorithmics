@@ -1,3 +1,4 @@
+
 # Automated Tool For Algorithmics Visualization
 This tool is designed for computer science students that are lazy to insert value one by one on University of San Francisco Visualization Tool.
 
